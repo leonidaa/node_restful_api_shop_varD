@@ -1,0 +1,1 @@
+# node_restful_api_shop_varD
